@@ -9,6 +9,9 @@ $navbarBackgroundHighlight: white;
 @import 'bootstrap';
 
 body {
+background-image: url(http://1.bp.blogspot.com/_UdH8rcs3s1Q/TGdcNtKNxOI/AAAAAAAAAKM/-jvA0rVt9_E/s320/iPadBackgroundTexture-brown.png); 
+
+
  padding-top: 60px;
 }
 
@@ -21,6 +24,18 @@ body {
 
 .hero-unit {
  background-color: white;
+ height: 180px;
+}
+
+.bunth {
+ color: white;
+}
+
+.kleinbox {
+ background-color: white;
+ height: 380px;
+ width: 900px;
+ float: left;
 }
 
 .footer {
@@ -44,6 +59,7 @@ body {
     border-radius: 5px;
     box-shadow: 1px 1px 10px #444;
     width: 214px;
+    background-color: white;
 }
 
 .box img {
